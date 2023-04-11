@@ -1,0 +1,3 @@
+CREATE SCHEMA users;
+CREATE SCHEMA bookings;
+CREATE SCHEMA listings;
